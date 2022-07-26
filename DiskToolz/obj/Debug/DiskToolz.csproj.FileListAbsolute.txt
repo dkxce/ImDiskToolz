@@ -1,0 +1,13 @@
+C:\DISK2\PROJECTS\Development\OAE_CSharp\DiskToolz\DiskToolz\bin\Debug\DiskToolz.exe.config
+C:\DISK2\PROJECTS\Development\OAE_CSharp\DiskToolz\DiskToolz\bin\Debug\DiskToolz.exe
+C:\DISK2\PROJECTS\Development\OAE_CSharp\DiskToolz\DiskToolz\bin\Debug\DiskToolz.pdb
+C:\DISK2\PROJECTS\Development\OAE_CSharp\DiskToolz\DiskToolz\bin\Debug\ImDiskNet.dll
+C:\DISK2\PROJECTS\Development\OAE_CSharp\DiskToolz\DiskToolz\obj\Debug\DiskToolz.csproj.AssemblyReference.cache
+C:\DISK2\PROJECTS\Development\OAE_CSharp\DiskToolz\DiskToolz\obj\Debug\DiskToolz.csproj.SuggestedBindingRedirects.cache
+C:\DISK2\PROJECTS\Development\OAE_CSharp\DiskToolz\DiskToolz\obj\Debug\DiskToolz.Properties.Resources.resources
+C:\DISK2\PROJECTS\Development\OAE_CSharp\DiskToolz\DiskToolz\obj\Debug\DiskToolz.csproj.GenerateResource.cache
+C:\DISK2\PROJECTS\Development\OAE_CSharp\DiskToolz\DiskToolz\obj\Debug\DiskToolz.csproj.CoreCompileInputs.cache
+C:\DISK2\PROJECTS\Development\OAE_CSharp\DiskToolz\DiskToolz\obj\Debug\DiskToolz.csproj.CopyComplete
+C:\DISK2\PROJECTS\Development\OAE_CSharp\DiskToolz\DiskToolz\obj\Debug\DiskToolz.exe
+C:\DISK2\PROJECTS\Development\OAE_CSharp\DiskToolz\DiskToolz\obj\Debug\DiskToolz.pdb
+C:\DISK2\PROJECTS\Development\OAE_CSharp\DiskToolz\DiskToolz\obj\Debug\DiskToolz.ToolzForm.resources
